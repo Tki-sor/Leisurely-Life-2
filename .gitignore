@@ -1,0 +1,31 @@
+#Whitelist
+/*
+!/.minecraft
+/.minecraft/*
+/.minecraft/mods
+
+#main
+!/更新记录.txt
+
+#repo stuff
+!/.github
+
+#minecrft
+!/.minecraft/oresources
+!/.minecraft/resourcepacks
+!/.minecraft/resources
+!/.minecraft/scripts
+
+#minecraft/configs
+!/.minecraft/config
+/.minecraft/config/*
+
+!/.minecraft/config/InventoryHUD
+
+!/.minecraft/config/fancymenu
+
+#minecraft/defaultconfigs
+!/.minecraft/defaultconfig
+/.minecraft/defaultconfig/*
+
+#other files
